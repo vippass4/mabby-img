@@ -1,0 +1,156 @@
+
+<!DOCTYPE HTML>
+<html class="no-js">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta charset="UTF-8">
+    <!--IE 8浏览器的页面渲染方式-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <!--默认使用极速内核：针对国内浏览器产商-->
+    <meta name="renderer" content="webkit">
+    <!--针对移动端的界面优化-->
+        <meta http-equiv="x-dns-prefetch-control" content="on">
+    <title>页面没找到 - 见字如晤</title>
+            <link rel="icon" type="image/ico" href="https://www.jianziruw.com/usr/uploads/logo.jpg">
+        <meta name="description" content="从前车马很慢，书信很远，一生只够爱一个人" />
+<meta name="keywords" content="书信,个人博客,白嫖,文艺青年,咸鱼,记录,分享,见字如面,见字如晤,Timo" />
+<meta name="generator" content="Typecho 1.2/18.1.29" />
+<meta name="template" content="handsome" />
+<link rel="pingback" href="https://www.jianziruw.com/action/xmlrpc" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.jianziruw.com/action/xmlrpc?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.jianziruw.com/action/xmlrpc?wlw" />
+<link rel="alternate" type="application/rss+xml" title="页面没找到 &raquo; 见字如晤 &raquo; RSS 2.0" href="https://www.jianziruw.com/feed/" />
+<link rel="alternate" type="application/rdf+xml" title="页面没找到 &raquo; 见字如晤 &raquo; RSS 1.0" href="https://www.jianziruw.com/feed/rss/" />
+<link rel="alternate" type="application/atom+xml" title="页面没找到 &raquo; 见字如晤 &raquo; ATOM 1.0" href="https://www.jianziruw.com/feed/atom/" />
+<link rel="stylesheet" type="text/css" href="/usr/plugins/SkyMo/css/style.css" /><link rel="stylesheet" type="text/css" href="/usr/plugins/SkyMo/css/card.css" /><link rel="stylesheet" type="text/css" href="/usr/plugins/SkyMo/css/quote/quote.css" /><link rel="stylesheet" type="text/css" href="/usr/plugins/SkyMo/css/head/head-title.css" /><link rel="stylesheet" type="text/css" href="/usr/plugins/SkyMo/css/comment.css" /><link rel="stylesheet" type="text/css" href="/usr/plugins/SkyMo/css/toc.css" /><link rel="stylesheet" type="text/css" href="/usr/plugins/SkyMo/css/tag.css" /><link rel="stylesheet" type="text/css" href="/usr/plugins/SkyMo/css/head/head-spin.css" /><link rel="stylesheet" type="text/css" href="/usr/plugins/SkyMo/css/head/heat-beat.css" />
+<link rel="amphtml" href="https://www.jianziruw.com/ampindex">
+
+
+    <!-- 第三方CDN加载CSS -->
+        <link href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <!-- 本地css静态资源 -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ihewro/handsome-static@8.2.0.2/assets/css/origin/function.min.css?v=8.2.02021030201" type="text/css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ihewro/handsome-static@8.2.0.2/assets/css/handsome.min.css?v=8.2.02021030201" type="text/css" />
+
+
+
+    <!--引入英文字体文件-->
+            <link rel="stylesheet preload" href="https://cdn.jsdelivr.net/gh/ihewro/handsome-static@8.2.0.2/assets/css/features/font.min.css?v=8.2.02021030201" type="text/css" />
+    
+    <style type="text/css">
+        
+        html.bg {
+        background: url(https://i.loli.net/2021/03/09/2KNG7ZwsLnaOF6r.jpg) center center no-repeat no-repeat fixed #6A6B6F;background-size: cover;
+        }
+        .cool-transparent .off-screen+#content {
+        background: url(https://i.loli.net/2021/03/09/2KNG7ZwsLnaOF6r.jpg) center center no-repeat no-repeat fixed #6A6B6F;background-size: cover;
+        }
+@media (max-width:767px){
+    html.bg {
+        background: url(https://i.loli.net/2021/03/09/2KNG7ZwsLnaOF6r.jpg) center center no-repeat no-repeat fixed #6A6B6F;background-size: cover;
+        }
+        .cool-transparent .off-screen+#content {
+        background: url(https://i.loli.net/2021/03/09/2KNG7ZwsLnaOF6r.jpg) center center no-repeat no-repeat fixed #6A6B6F;background-size: cover;
+        }
+}
+/*底部页脚*/
+.github-badge {
+  display: inline-block;
+  border-radius: 4px;
+  text-shadow: none;
+  font-size: 12px;
+  color: #fff;
+  line-height: 15px;
+  background-color: #abbac3;
+  margin-bottom: 5px
+}
+
+.github-badge .badge-subject {
+  display: inline-block;
+  background-color: #4d4d4d;
+  padding: 4px 4px 4px 6px;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px
+}
+
+.github-badge .badge-value {
+  display: inline-block;
+  padding: 4px 6px 4px 4px;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px
+}
+
+.github-badge .bg-blue {
+  background-color: #007ec6
+}
+
+.github-badge .bg-orange {
+  background-color: #ffa500
+}
+
+.github-badge .bg-red {
+  background-color: #f00
+}
+
+.github-badge .bg-green {
+  background-color: #3bca6e
+}
+
+.github-badge .bg-purple {
+  background-color: #ab34e9
+}
+
+/*这是优化底部栏的css，应该不会影响没开启炫酷透明功能时候的主题，如果有问题就删除下面这行即可*/
+.wrapper {
+  padding: 11px;
+}    </style>
+
+    <!--全站jquery-->
+    <script src="https://cdn.staticfile.org/jquery/2.2.4/jquery.min.js"></script>
+
+    <!--网站统计代码-->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1968389302661070"
+     crossorigin="anonymous"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?92046baf5c532a4e677c36d62788fe2e";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</head>
+
+<body>
+<div class="app app-header-fixed ">
+
+
+<div class="container w-xxl w-auto-xs">
+  <div class="text-center m-b-lg">
+    <h1 class="text-shadow text-white">404</h1>
+  </div>
+  <div class="list-group bg-info auto m-b-sm m-b-lg">
+    <a href="https://www.jianziruw.com" class="list-group-item">
+      <i class="fontello fontello-chevron-right text-muted"></i>
+      <i class="fontello fontello-fw fontello-home m-r-xs"></i>&nbsp;Home    </a>
+            <a href="https://www.jianziruw.com/admin/login.php" class="list-group-item">
+      <i class="fontello fontello-chevron-right text-muted"></i>
+      <i class="fontello fontello-fw fontello-sign-in m-r-xs"></i>&nbsp;Login    </a>
+    <a href="https://www.jianziruw.com/admin/register.php"  class="list-group-item">
+      <i class="fontello fontello-chevron-right text-muted"></i>
+      <i class="fontello fontello-fw fontello-unlock-alt m-r-xs"></i>&nbsp;registered    </a>
+        </div>
+  <div class="text-center">
+    <p>
+  <small class="text-muted letterspacing">欢迎来到德莱联盟<br>&copy; 2021</small>
+</p>
+  </div>
+</div>
+
+
+</div>
+
+</body>
